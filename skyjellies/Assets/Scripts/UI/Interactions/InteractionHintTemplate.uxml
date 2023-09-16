@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Code/UI/Interactions/InteractionHintTemplate.uss?fileID=7433441132597879392&amp;guid=be1e586949d97427c900262024b9dbe9&amp;type=3#InteractionHintTemplate" />
+    <ui:VisualElement class="interaction-hint-container" style="background-color: rgba(0, 0, 0, 0.42); border-top-left-radius: 8px; border-bottom-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px;">
+        <ui:Label display-tooltip-when-elided="true" name="icon" text="E" class="interaction-hint-button-icon" />
+        <ui:Label text="Interact" display-tooltip-when-elided="true" name="interaction" class="interaction-hint-label" style="color: rgba(204, 204, 204, 255);" />
+    </ui:VisualElement>
+</ui:UXML>

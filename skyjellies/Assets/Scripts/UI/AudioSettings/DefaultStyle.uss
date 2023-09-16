@@ -1,0 +1,64 @@
+.unity-base-slider__tracker {
+    background-image: url('project://database/Assets/Art/UI%20Elements/PauseMenu/Slider%20Bar_.png?fileID=2800000&guid=65032b44a1bbb7f41840dea729af66ef&type=3#Slider Bar_');
+    scale: 1 3;
+}
+
+.unity-base-slider__dragger {
+    background-image: url('project://database/Assets/Art/UI%20Elements/PauseMenu/Slider%20Nub_.png?fileID=2800000&guid=d0a76d81f29112e44ac55fa71efa87a2&type=3#Slider Nub_');
+    -unity-background-scale-mode: stretch-to-fill;
+    background-color: rgba(0, 0, 0, 0);
+    width: 25px;
+    border-left-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    border-top-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(255, 255, 255, 0);
+    scale: 1 1;
+}
+
+.audio-settings-sliders {
+    flex-direction: row;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.text-color {
+    color: rgb(255, 255, 255);
+}
+
+.unity-button {
+}
+
+.unity-button:hover {
+    -unity-background-image-tint-color: rgb(112, 212, 255);
+}
+
+.unity-button:active {
+    -unity-background-image-tint-color: rgb(58, 107, 113);
+}
+
+#unity-text-input {
+    background-color: rgb(111, 120, 146);
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+    color: rgba(255, 255, 255, 255);
+    font-size: 25px;
+    -unity-font-style: bold;
+    -unity-text-align: middle-center;
+    white-space: nowrap;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\States\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\skyjellies_WwiseProject.wproj" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\skyjellies_WwiseProject.crossover.wsettings" DateLow="1681765162" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Queries\Factory Queries.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Metadata\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Interactive Music Hierarchy\Music.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Events\Default Work Unit.wwu" DateLow="1681752488" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Effects\Factory Effects.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1681750372" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\UI.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Player.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Jellies.wwu" DateLow="1681494605" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Env.wwu" DateLow="1681764203" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Git\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1681494577" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1681964584" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\States\Default Work Unit.wwu" DateLow="1681964584" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1680398297" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\skyjellies_WwiseProject.wproj" DateLow="1681964584" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\skyjellies_WwiseProject.crossover.wsettings" DateLow="1682540107" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Queries\Factory Queries.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Metadata\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1681964583" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Interactive Music Hierarchy\Music.wwu" DateLow="1682537278" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1681964583" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Events\Default Work Unit.wwu" DateLow="1682540068" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Effects\Factory Effects.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1680385181" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1681964583" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\UI.wwu" DateLow="1682540068" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Player.wwu" DateLow="1682540068" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Jellies.wwu" DateLow="1681964583" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Env.wwu" DateLow="1681964583" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\Projects\P1-OM\REPO\Prototype\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1680398297" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1681231561" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\States\Default Work Unit.wwu" DateLow="1681231561" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1680379790" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\skyjellies_WwiseProject.wproj" DateLow="1681231561" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\skyjellies_WwiseProject.crossover.wsettings" DateLow="1682353177" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Queries\Factory Queries.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Metadata\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1681231561" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Interactive Music Hierarchy\Music.wwu" DateLow="1682351585" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1681231561" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Events\Default Work Unit.wwu" DateLow="1682353134" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Effects\Factory Effects.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1680030440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1681765189" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\UI.wwu" DateLow="1680374764" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Player.wwu" DateLow="1681231561" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Jellies.wwu" DateLow="1681765185" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Env.wwu" DateLow="1682347920" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\skyjellies\skyjellies\skyjellies_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1680374324" DateHigh="0"/>
+</ValidationCache>

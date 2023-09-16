@@ -1,0 +1,31 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Code/UI/AudioSettings/DefaultStyle.uss?fileID=7433441132597879392&amp;guid=1fd57c1212e2dd94ea3a2b43812deb5a&amp;type=3#DefaultStyle" />
+    <ui:VisualElement name="root-container" style="align-items: center; justify-content: center; flex-grow: 1; display: flex; flex-direction: row;">
+        <ui:VisualElement name="settings-background" style="width: 75%; height: 75%; flex-direction: row; background-image: url(&apos;project://database/Assets/Art/UI%20Elements/PauseMenu/Window%20Base_.png?fileID=2800000&amp;guid=0c97041b53ee9db45ac7e869f16e2ace&amp;type=3#Window Base_&apos;); display: flex;">
+            <ui:VisualElement name="navigation-controls" style="width: 19%;" />
+            <ui:VisualElement name="audio-settings-background" style="width: 81%; height: auto;">
+                <ui:VisualElement name="close-button-container" style="width: auto; margin-left: 0; margin-right: 5px; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; align-items: flex-end; justify-content: flex-start; display: flex;">
+                    <ui:Button display-tooltip-when-elided="true" name="close-button" style="background-image: url(&apos;project://database/Assets/Art/UI%20Elements/PauseMenu/X%20Button%20Merged_.png?fileID=2800000&amp;guid=bb1acf41c1f1e2047ba16e937fa69e45&amp;type=3#X Button Merged_&apos;); background-color: rgba(188, 188, 188, 0); flex-grow: 0; flex-shrink: 1; width: 35px; height: 35px; right: auto; align-items: stretch; transform-origin: center; border-left-color: rgba(255, 255, 255, 0); border-right-color: rgba(255, 255, 255, 0); border-top-color: rgba(255, 255, 255, 0); border-bottom-color: rgba(255, 255, 255, 0); padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; margin-top: 3px; display: flex;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="sliders-container" style="flex-direction: row; margin-top: 60px; display: flex;">
+                    <ui:VisualElement name="sliders-icons" style="width: 8%; height: 100%;">
+                        <ui:VisualElement name="music-icon" style="height: 100%; width: 100%; background-image: url(&apos;project://database/Assets/Art/UI%20Elements/PauseMenu/Music%20Icon_.png?fileID=2800000&amp;guid=54277d9ef18efa943a99876a0d708363&amp;type=3#Music Icon_&apos;); scale: 0.5 0.5;" />
+                        <ui:VisualElement name="sound-icon" style="height: 100%; width: 100%; background-image: url(&apos;project://database/Assets/Art/UI%20Elements/PauseMenu/Sound%20Icon_.png?fileID=2800000&amp;guid=f575b4c2ddc84ec458a825bc8685841b&amp;type=3#Sound Icon_&apos;); scale: 0.5 0.5;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="sliders" style="flex-grow: 1; flex-shrink: 0; width: 82px;">
+                        <ui:Slider picking-mode="Ignore" value="42" high-value="100" name="music-slider" class="audio-settings-sliders text-color" style="margin-left: 0; padding-right: 0; margin-right: 0; padding-left: 0;" />
+                        <ui:Slider picking-mode="Ignore" value="42" high-value="100" name="sound-slider" class="audio-settings-sliders text-color" style="margin-left: 0; margin-right: 0; padding-right: 0; padding-left: 0;" />
+                    </ui:VisualElement>
+                    <ui:VisualElement name="sliders-fields" style="width: 10%;">
+                        <ui:VisualElement name="music-field-container" style="height: 50%; justify-content: center;">
+                            <ui:TextField picking-mode="Ignore" value="100" text="100" name="music-field" max-length="3" style="height: auto; width: 75%; flex-direction: row; padding-left: 10px;" />
+                        </ui:VisualElement>
+                        <ui:VisualElement name="sound-field-container" style="height: 50%; justify-content: center;">
+                            <ui:TextField picking-mode="Ignore" value="100" text="100" name="sound-field" max-length="3" style="height: auto; width: 75%; flex-direction: row; padding-left: 10px; display: flex;" />
+                        </ui:VisualElement>
+                    </ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

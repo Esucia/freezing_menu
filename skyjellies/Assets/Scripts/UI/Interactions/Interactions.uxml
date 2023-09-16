@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="InteractionHintTemplate" src="project://database/Assets/Code/UI/Interactions/InteractionHintTemplate.uxml?fileID=9197481963319205126&amp;guid=64f6d507b245644eb9e92b27fd74d357&amp;type=3#InteractionHintTemplate" />
+    <Style src="project://database/Assets/Code/UI/Interactions/Interactions.uss?fileID=7433441132597879392&amp;guid=3a221521e8cc94ca48275094846f967f&amp;type=3#Interactions" />
+    <ui:VisualElement style="flex-grow: 1; justify-content: center; align-items: center;">
+        <ui:Instance template="InteractionHintTemplate" name="InteractionHintTemplate" />
+    </ui:VisualElement>
+</ui:UXML>

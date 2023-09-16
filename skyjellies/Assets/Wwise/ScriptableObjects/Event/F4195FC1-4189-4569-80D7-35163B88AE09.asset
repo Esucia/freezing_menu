@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be0033ed25cb2b241863d5c1ddc48c9c, type: 3}
+  m_Name: F4195FC1-4189-4569-80D7-35163B88AE09
+  m_EditorClassIdentifier: 
+  objectName: Play_Music__LoadingScreen_01
+  id: 2124889703
+  guid: F4195FC1-4189-4569-80D7-35163B88AE09
